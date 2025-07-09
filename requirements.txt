@@ -1,0 +1,16 @@
+Flask==2.2.5
+Flask-Cors
+flask-socketio
+python-socketio
+eventlet
+python-dotenv
+psycopg2-binary
+pytz
+python-dateutil
+sqlalchemy
+requests
+gunicorn
+pandas==1.5.3
+pyzk @ git+https://github.com/fananimi/pyzk
+psycopg2-binary>=2.9.9
+colorama==0.4.6
